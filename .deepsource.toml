@@ -1,4 +1,13 @@
 version = 1
 
 [[analyzers]]
-name = "test-coverage"
+name = "javascript"
+
+[[analyzers]]
+name = "php"
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
+name = "csharp"
